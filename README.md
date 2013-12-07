@@ -6,7 +6,6 @@ quickproxy
 ### Record request/response elapsed time.
 
 ```go
-proxy server
 package main
 
 import (
