@@ -1,5 +1,7 @@
-quickproxy
+Go Library for a easy HTTP proxy
 ==========
+
+Go Library for a easy HTTP proxy
 
 ## Examples
 
